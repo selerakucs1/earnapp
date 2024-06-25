@@ -1,3 +1,6 @@
+Invite friends
+https://earnapp.com/i/F31mffcP
+
 *Installation Process:*
 
 This process should only take a few minutes to complete. Open a terminal window and enter the following command:
