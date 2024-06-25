@@ -1,4 +1,5 @@
-Installation Process:
+*Installation Process:*
+
 This process should only take a few minutes to complete. Open a terminal window and enter the following command:
 
 wget -qO- https://cdn.earnapp.com/static/earnapp/install.sh > /tmp/earnapp.sh && sudo bash /tmp/earnapp.sh
@@ -16,6 +17,6 @@ EarnApp will run as a service, which means it will automatically start when you 
 That’s it – you are up and running! To view your earnings and manage your account, go to your EarnApp Dashboard.
 
 
-Uninstall
+*Uninstall*
 In your command prompter run the following command: sudo earnapp uninstall
 
