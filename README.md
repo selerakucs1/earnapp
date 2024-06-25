@@ -1,4 +1,5 @@
-Invite friends
+*Invite friends*
+
 https://earnapp.com/i/F31mffcP
 
 *Installation Process:*
@@ -19,7 +20,17 @@ wget -qO- https://cdn.earnapp.com/static/earnapp/install.sh > /tmp/earnapp.sh &&
 EarnApp will run as a service, which means it will automatically start when you reboot the Linux/Raspberry Pi.
 That’s it – you are up and running! To view your earnings and manage your account, go to your EarnApp Dashboard.
 
+*EarnApp Commands:*
+
+earnapp start - Start making money in the background process
+earnapp stop - Stop making money in the background process
+earnapp update - Updates EarnApp to the latest version
+earnapp status - Check the status of the running EarnApp
+earnapp register - Provides you the link to assign the device to your account via browser
+earnapp showid - Shows the ID of your device
+earnapp uninstall - Removes EarnApp from your device
 
 *Uninstall*
+
 In your command prompter run the following command: sudo earnapp uninstall
 
