@@ -2,7 +2,7 @@
 > :heart_eyes: https://earnapp.com/i/F31mffcP
 
 ***Installation Process:***
->
+```
 This process should only take a few minutes to complete. Open a terminal window and enter the following command:
 
 wget -qO- https://cdn.earnapp.com/static/earnapp/install.sh > /tmp/earnapp.sh && sudo bash /tmp/earnapp.sh
@@ -18,10 +18,12 @@ wget -qO- https://cdn.earnapp.com/static/earnapp/install.sh > /tmp/earnapp.sh &&
 
 EarnApp will run as a service, which means it will automatically start when you reboot the Linux/Raspberry Pi.
 That’s it – you are up and running! To view your earnings and manage your account, go to your EarnApp Dashboard.
-:money_mouth_face: :money_mouth_face: :money_mouth_face:
+
+:money_mouth_face:
+```
 
 ***EarnApp Commands:***
->
+```
 - earnapp start -> Start making money in the background process
 - earnapp stop -> Stop making money in the background process
 - earnapp update -> Updates EarnApp to the latest version
@@ -29,8 +31,7 @@ That’s it – you are up and running! To view your earnings and manage your ac
 - earnapp register -> Provides you the link to assign the device to your account via browser
 - earnapp showid -> Shows the ID of your device
 - earnapp uninstall -> Removes EarnApp from your device
-
+```
 ***Uninstall***
->
-In your command prompter run the following command: sudo earnapp uninstall
+> In your command prompter run the following command: sudo earnapp uninstall
 
